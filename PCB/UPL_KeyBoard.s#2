@@ -1670,54 +1670,54 @@ Source: http://www.osram.convergy.de/</description>
 </class>
 </classes>
 <parts>
-<part name="START_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="START" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
 <part name="J1" library="bvk" deviceset="EHF-113-01-L-D-SM-LC" device=""/>
 <part name="LED_START" library="adafruit" deviceset="LED" device="CHIPLED_1206"/>
 <part name="LED_SINGLE" library="adafruit" deviceset="LED" device="CHIPLED_1206"/>
 <part name="LED_OUTPUT" library="adafruit" deviceset="LED" device="CHIPLED_1206"/>
 <part name="LED_REMOTE" library="adafruit" deviceset="LED" device="CHIPLED_1206"/>
-<part name="SINGLE_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="STOP_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="HCOPY_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="SYSTEM_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="CONTRAST_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="OUTPUT_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="LOCAL_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="SINGLE" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="STOP" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="HCOPY" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="SYSTEM" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="CONTRAST" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="OUTPUT" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="LOCAL" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
 <part name="LED_DATA" library="adafruit" deviceset="LED" device="CHIPLED_1206"/>
-<part name="7_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="8_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="9_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="SELECT_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="4_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="5_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="6_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="BACKSP_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="1_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="2_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="3_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="CANCEL_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="0_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="POINT_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="MINUS_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="ENTER_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="HELP_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="TABRIGHT_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="TABLEFT_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="PGUP_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="PGDN_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="LEFT_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="RIGHT_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="UP_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="DOWN_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="7" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="8" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="9" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="SELECT" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="4" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="5" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="6" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="BACKSP" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="1" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="2" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="3" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="CANCEL" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="0" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="POINT" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="MINUS" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="ENTER" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="HELP" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="TABRIGHT" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="TABLEFT" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="PGUP" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="PGDN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="LEFT" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="RIGHT" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="UP" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="DOWN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
 <part name="LED_GEN_OVRLD" library="adafruit" deviceset="LED" device="CHIPLED_1206"/>
-<part name="F1_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="F2_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="F3_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="F4_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device="" value="ALPS_SKQYAFE010"/>
-<part name="F5_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="F6_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="F7_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
-<part name="F8_BTN" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="F1" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="F2" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="F3" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="F4" library="bvk" deviceset="ALPS_SKQYAFE010" device="" value="ALPS_SKQYAFE010"/>
+<part name="F5" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="F6" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="F7" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
+<part name="F8" library="bvk" deviceset="ALPS_SKQYAFE010" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -1730,54 +1730,54 @@ UPL Audio Analyzer
 KeyBoard</text>
 </plain>
 <instances>
-<instance part="START_BTN" gate="A" x="-53.34" y="68.58" rot="R90"/>
+<instance part="START" gate="A" x="-53.34" y="68.58" rot="R90"/>
 <instance part="J1" gate="A" x="-129.54" y="35.56"/>
 <instance part="LED_START" gate="G$1" x="-53.34" y="119.38"/>
 <instance part="LED_SINGLE" gate="G$1" x="-38.1" y="119.38"/>
 <instance part="LED_OUTPUT" gate="G$1" x="55.88" y="119.38"/>
 <instance part="LED_REMOTE" gate="G$1" x="71.12" y="119.38"/>
-<instance part="SINGLE_BTN" gate="A" x="-38.1" y="68.58" rot="R90"/>
-<instance part="STOP_BTN" gate="A" x="-22.86" y="68.58" rot="R90"/>
-<instance part="HCOPY_BTN" gate="A" x="10.16" y="68.58" rot="R90"/>
-<instance part="SYSTEM_BTN" gate="A" x="25.4" y="68.58" rot="R90"/>
-<instance part="CONTRAST_BTN" gate="A" x="40.64" y="68.58" rot="R90"/>
-<instance part="OUTPUT_BTN" gate="A" x="55.88" y="68.58" rot="R90"/>
-<instance part="LOCAL_BTN" gate="A" x="71.12" y="68.58" rot="R90"/>
+<instance part="SINGLE" gate="A" x="-38.1" y="68.58" rot="R90"/>
+<instance part="STOP" gate="A" x="-22.86" y="68.58" rot="R90"/>
+<instance part="HCOPY" gate="A" x="10.16" y="68.58" rot="R90"/>
+<instance part="SYSTEM" gate="A" x="25.4" y="68.58" rot="R90"/>
+<instance part="CONTRAST" gate="A" x="40.64" y="68.58" rot="R90"/>
+<instance part="OUTPUT" gate="A" x="55.88" y="68.58" rot="R90"/>
+<instance part="LOCAL" gate="A" x="71.12" y="68.58" rot="R90"/>
 <instance part="LED_DATA" gate="G$1" x="-76.2" y="38.1"/>
-<instance part="7_BTN" gate="A" x="-53.34" y="20.32" rot="R90"/>
-<instance part="8_BTN" gate="A" x="-38.1" y="20.32" rot="R90"/>
-<instance part="9_BTN" gate="A" x="-22.86" y="20.32" rot="R90"/>
-<instance part="SELECT_BTN" gate="A" x="-2.54" y="20.32" rot="R90"/>
-<instance part="4_BTN" gate="A" x="-53.34" y="-25.4" rot="R90"/>
-<instance part="5_BTN" gate="A" x="-38.1" y="-25.4" rot="R90"/>
-<instance part="6_BTN" gate="A" x="-22.86" y="-25.4" rot="R90"/>
-<instance part="BACKSP_BTN" gate="A" x="-2.54" y="-25.4" rot="R90"/>
-<instance part="1_BTN" gate="A" x="-53.34" y="-71.12" rot="R90"/>
-<instance part="2_BTN" gate="A" x="-38.1" y="-71.12" rot="R90"/>
-<instance part="3_BTN" gate="A" x="-22.86" y="-71.12" rot="R90"/>
-<instance part="CANCEL_BTN" gate="A" x="-2.54" y="-71.12" rot="R90"/>
-<instance part="0_BTN" gate="A" x="-53.34" y="-116.84" rot="R90"/>
-<instance part="POINT_BTN" gate="A" x="-38.1" y="-116.84" rot="R90"/>
-<instance part="MINUS_BTN" gate="A" x="-22.86" y="-116.84" rot="R90"/>
-<instance part="ENTER_BTN" gate="A" x="-2.54" y="-116.84" rot="R90"/>
-<instance part="HELP_BTN" gate="A" x="33.02" y="20.32" rot="R90"/>
-<instance part="TABRIGHT_BTN" gate="A" x="43.18" y="-12.7" rot="R90"/>
-<instance part="TABLEFT_BTN" gate="A" x="33.02" y="-40.64" rot="R90"/>
-<instance part="PGUP_BTN" gate="A" x="43.18" y="-78.74" rot="R90"/>
-<instance part="PGDN_BTN" gate="A" x="33.02" y="-116.84" rot="R90"/>
-<instance part="LEFT_BTN" gate="A" x="73.66" y="-73.66" rot="R90"/>
-<instance part="RIGHT_BTN" gate="A" x="109.22" y="-73.66" rot="R90"/>
-<instance part="UP_BTN" gate="A" x="91.44" y="-50.8" rot="R90"/>
-<instance part="DOWN_BTN" gate="A" x="91.44" y="-99.06" rot="R90"/>
+<instance part="7" gate="A" x="-53.34" y="20.32" rot="R90"/>
+<instance part="8" gate="A" x="-38.1" y="20.32" rot="R90"/>
+<instance part="9" gate="A" x="-22.86" y="20.32" rot="R90"/>
+<instance part="SELECT" gate="A" x="-2.54" y="20.32" rot="R90"/>
+<instance part="4" gate="A" x="-53.34" y="-25.4" rot="R90"/>
+<instance part="5" gate="A" x="-38.1" y="-25.4" rot="R90"/>
+<instance part="6" gate="A" x="-22.86" y="-25.4" rot="R90"/>
+<instance part="BACKSP" gate="A" x="-2.54" y="-25.4" rot="R90"/>
+<instance part="1" gate="A" x="-53.34" y="-71.12" rot="R90"/>
+<instance part="2" gate="A" x="-38.1" y="-71.12" rot="R90"/>
+<instance part="3" gate="A" x="-22.86" y="-71.12" rot="R90"/>
+<instance part="CANCEL" gate="A" x="-2.54" y="-71.12" rot="R90"/>
+<instance part="0" gate="A" x="-53.34" y="-116.84" rot="R90"/>
+<instance part="POINT" gate="A" x="-38.1" y="-116.84" rot="R90"/>
+<instance part="MINUS" gate="A" x="-22.86" y="-116.84" rot="R90"/>
+<instance part="ENTER" gate="A" x="-2.54" y="-116.84" rot="R90"/>
+<instance part="HELP" gate="A" x="33.02" y="20.32" rot="R90"/>
+<instance part="TABRIGHT" gate="A" x="43.18" y="-12.7" rot="R90"/>
+<instance part="TABLEFT" gate="A" x="33.02" y="-40.64" rot="R90"/>
+<instance part="PGUP" gate="A" x="43.18" y="-78.74" rot="R90"/>
+<instance part="PGDN" gate="A" x="33.02" y="-116.84" rot="R90"/>
+<instance part="LEFT" gate="A" x="73.66" y="-73.66" rot="R90"/>
+<instance part="RIGHT" gate="A" x="109.22" y="-73.66" rot="R90"/>
+<instance part="UP" gate="A" x="91.44" y="-50.8" rot="R90"/>
+<instance part="DOWN" gate="A" x="91.44" y="-99.06" rot="R90"/>
 <instance part="LED_GEN_OVRLD" gate="G$1" x="-76.2" y="-111.76"/>
-<instance part="F1_BTN" gate="A" x="-182.88" y="-116.84" rot="R90"/>
-<instance part="F2_BTN" gate="A" x="-170.18" y="-116.84" rot="R90"/>
-<instance part="F3_BTN" gate="A" x="-157.48" y="-116.84" rot="R90"/>
-<instance part="F4_BTN" gate="A" x="-144.78" y="-116.84" rot="R90"/>
-<instance part="F5_BTN" gate="A" x="-132.08" y="-116.84" rot="R90"/>
-<instance part="F6_BTN" gate="A" x="-119.38" y="-116.84" rot="R90"/>
-<instance part="F7_BTN" gate="A" x="-106.68" y="-116.84" rot="R90"/>
-<instance part="F8_BTN" gate="A" x="-93.98" y="-116.84" rot="R90"/>
+<instance part="F1" gate="A" x="-182.88" y="-116.84" rot="R90"/>
+<instance part="F2" gate="A" x="-170.18" y="-116.84" rot="R90"/>
+<instance part="F3" gate="A" x="-157.48" y="-116.84" rot="R90"/>
+<instance part="F4" gate="A" x="-144.78" y="-116.84" rot="R90"/>
+<instance part="F5" gate="A" x="-132.08" y="-116.84" rot="R90"/>
+<instance part="F6" gate="A" x="-119.38" y="-116.84" rot="R90"/>
+<instance part="F7" gate="A" x="-106.68" y="-116.84" rot="R90"/>
+<instance part="F8" gate="A" x="-93.98" y="-116.84" rot="R90"/>
 </instances>
 <busses>
 </busses>
@@ -1838,27 +1838,27 @@ KeyBoard</text>
 <label x="-157.48" y="30.48" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="START_BTN" gate="A" pin="3"/>
+<pinref part="START" gate="A" pin="3"/>
 <wire x1="-53.34" y1="73.66" x2="-53.34" y2="88.9" width="0.1524" layer="91"/>
 <label x="-53.34" y="73.66" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="SINGLE_BTN" gate="A" pin="3"/>
+<pinref part="SINGLE" gate="A" pin="3"/>
 <wire x1="-38.1" y1="73.66" x2="-38.1" y2="88.9" width="0.1524" layer="91"/>
 <label x="-38.1" y="73.66" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="STOP_BTN" gate="A" pin="3"/>
+<pinref part="STOP" gate="A" pin="3"/>
 <wire x1="-22.86" y1="73.66" x2="-22.86" y2="88.9" width="0.1524" layer="91"/>
 <label x="-22.86" y="73.66" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="HCOPY_BTN" gate="A" pin="3"/>
+<pinref part="HCOPY" gate="A" pin="3"/>
 <wire x1="10.16" y1="73.66" x2="10.16" y2="88.9" width="0.1524" layer="91"/>
 <label x="10.16" y="73.66" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="SYSTEM_BTN" gate="A" pin="3"/>
+<pinref part="SYSTEM" gate="A" pin="3"/>
 <wire x1="25.4" y1="73.66" x2="25.4" y2="88.9" width="0.1524" layer="91"/>
 <label x="25.4" y="73.66" size="1.778" layer="95" rot="R90"/>
 </segment>
@@ -1870,32 +1870,32 @@ KeyBoard</text>
 <label x="-157.48" y="27.94" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="CONTRAST_BTN" gate="A" pin="3"/>
+<pinref part="CONTRAST" gate="A" pin="3"/>
 <wire x1="40.64" y1="73.66" x2="40.64" y2="88.9" width="0.1524" layer="91"/>
 <label x="40.64" y="73.66" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="7_BTN" gate="A" pin="3"/>
+<pinref part="7" gate="A" pin="3"/>
 <wire x1="-53.34" y1="25.4" x2="-53.34" y2="40.64" width="0.1524" layer="91"/>
 <label x="-53.34" y="25.4" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="8_BTN" gate="A" pin="3"/>
+<pinref part="8" gate="A" pin="3"/>
 <wire x1="-38.1" y1="25.4" x2="-38.1" y2="40.64" width="0.1524" layer="91"/>
 <label x="-38.1" y="25.4" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="9_BTN" gate="A" pin="3"/>
+<pinref part="9" gate="A" pin="3"/>
 <wire x1="-22.86" y1="25.4" x2="-22.86" y2="40.64" width="0.1524" layer="91"/>
 <label x="-22.86" y="25.4" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="SELECT_BTN" gate="A" pin="3"/>
+<pinref part="SELECT" gate="A" pin="3"/>
 <wire x1="-2.54" y1="25.4" x2="-2.54" y2="40.64" width="0.1524" layer="91"/>
 <label x="-2.54" y="25.4" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="HELP_BTN" gate="A" pin="3"/>
+<pinref part="HELP" gate="A" pin="3"/>
 <wire x1="33.02" y1="25.4" x2="33.02" y2="40.64" width="0.1524" layer="91"/>
 <label x="33.02" y="25.4" size="1.778" layer="95" rot="R90"/>
 </segment>
@@ -1907,32 +1907,32 @@ KeyBoard</text>
 <label x="-157.48" y="25.4" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="OUTPUT_BTN" gate="A" pin="3"/>
+<pinref part="OUTPUT" gate="A" pin="3"/>
 <wire x1="55.88" y1="73.66" x2="55.88" y2="88.9" width="0.1524" layer="91"/>
 <label x="55.88" y="73.66" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="4_BTN" gate="A" pin="3"/>
+<pinref part="4" gate="A" pin="3"/>
 <wire x1="-53.34" y1="-20.32" x2="-53.34" y2="-5.08" width="0.1524" layer="91"/>
 <label x="-53.34" y="-20.32" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="5_BTN" gate="A" pin="3"/>
+<pinref part="5" gate="A" pin="3"/>
 <wire x1="-38.1" y1="-20.32" x2="-38.1" y2="-5.08" width="0.1524" layer="91"/>
 <label x="-38.1" y="-20.32" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="6_BTN" gate="A" pin="3"/>
+<pinref part="6" gate="A" pin="3"/>
 <wire x1="-22.86" y1="-20.32" x2="-22.86" y2="-5.08" width="0.1524" layer="91"/>
 <label x="-22.86" y="-20.32" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="BACKSP_BTN" gate="A" pin="3"/>
+<pinref part="BACKSP" gate="A" pin="3"/>
 <wire x1="-2.54" y1="-20.32" x2="-2.54" y2="-5.08" width="0.1524" layer="91"/>
 <label x="-2.54" y="-20.32" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="TABRIGHT_BTN" gate="A" pin="3"/>
+<pinref part="TABRIGHT" gate="A" pin="3"/>
 <wire x1="43.18" y1="-7.62" x2="43.18" y2="7.62" width="0.1524" layer="91"/>
 <label x="43.18" y="-7.62" size="1.778" layer="95" rot="R90"/>
 </segment>
@@ -1944,27 +1944,27 @@ KeyBoard</text>
 <label x="-157.48" y="20.32" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="PGUP_BTN" gate="A" pin="3"/>
+<pinref part="PGUP" gate="A" pin="3"/>
 <wire x1="43.18" y1="-73.66" x2="43.18" y2="-58.42" width="0.1524" layer="91"/>
 <label x="43.18" y="-73.66" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="F5_BTN" gate="A" pin="3"/>
+<pinref part="F5" gate="A" pin="3"/>
 <wire x1="-132.08" y1="-111.76" x2="-132.08" y2="-96.52" width="0.1524" layer="91"/>
 <label x="-132.08" y="-111.76" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="F6_BTN" gate="A" pin="3"/>
+<pinref part="F6" gate="A" pin="3"/>
 <wire x1="-119.38" y1="-111.76" x2="-119.38" y2="-96.52" width="0.1524" layer="91"/>
 <label x="-119.38" y="-111.76" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="F7_BTN" gate="A" pin="3"/>
+<pinref part="F7" gate="A" pin="3"/>
 <wire x1="-106.68" y1="-111.76" x2="-106.68" y2="-96.52" width="0.1524" layer="91"/>
 <label x="-106.68" y="-111.76" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="F8_BTN" gate="A" pin="3"/>
+<pinref part="F8" gate="A" pin="3"/>
 <wire x1="-93.98" y1="-111.76" x2="-93.98" y2="-96.52" width="0.1524" layer="91"/>
 <label x="-93.98" y="-111.76" size="1.778" layer="95" rot="R90"/>
 </segment>
@@ -1976,27 +1976,27 @@ KeyBoard</text>
 <label x="-157.48" y="17.78" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="PGDN_BTN" gate="A" pin="3"/>
+<pinref part="PGDN" gate="A" pin="3"/>
 <wire x1="33.02" y1="-111.76" x2="33.02" y2="-109.22" width="0.1524" layer="91"/>
 <label x="33.02" y="-111.76" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="LEFT_BTN" gate="A" pin="3"/>
+<pinref part="LEFT" gate="A" pin="3"/>
 <wire x1="73.66" y1="-68.58" x2="73.66" y2="-53.34" width="0.1524" layer="91"/>
 <label x="73.66" y="-68.58" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="UP_BTN" gate="A" pin="3"/>
+<pinref part="UP" gate="A" pin="3"/>
 <wire x1="91.44" y1="-45.72" x2="91.44" y2="-30.48" width="0.1524" layer="91"/>
 <label x="91.44" y="-45.72" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="DOWN_BTN" gate="A" pin="3"/>
+<pinref part="DOWN" gate="A" pin="3"/>
 <wire x1="91.44" y1="-93.98" x2="91.44" y2="-78.74" width="0.1524" layer="91"/>
 <label x="91.44" y="-93.98" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="RIGHT_BTN" gate="A" pin="3"/>
+<pinref part="RIGHT" gate="A" pin="3"/>
 <wire x1="109.22" y1="-68.58" x2="109.22" y2="-53.34" width="0.1524" layer="91"/>
 <label x="109.22" y="-68.58" size="1.778" layer="95" rot="R90"/>
 </segment>
@@ -2008,42 +2008,42 @@ KeyBoard</text>
 <label x="-157.48" y="15.24" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="F1_BTN" gate="A" pin="3"/>
+<pinref part="F1" gate="A" pin="3"/>
 <wire x1="-182.88" y1="-111.76" x2="-182.88" y2="-96.52" width="0.1524" layer="91"/>
 <label x="-182.88" y="-111.76" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="F2_BTN" gate="A" pin="3"/>
+<pinref part="F2" gate="A" pin="3"/>
 <wire x1="-170.18" y1="-111.76" x2="-170.18" y2="-96.52" width="0.1524" layer="91"/>
 <label x="-170.18" y="-111.76" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="F3_BTN" gate="A" pin="3"/>
+<pinref part="F3" gate="A" pin="3"/>
 <wire x1="-157.48" y1="-111.76" x2="-157.48" y2="-96.52" width="0.1524" layer="91"/>
 <label x="-157.48" y="-111.76" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="F4_BTN" gate="A" pin="3"/>
+<pinref part="F4" gate="A" pin="3"/>
 <wire x1="-144.78" y1="-111.76" x2="-144.78" y2="-96.52" width="0.1524" layer="91"/>
 <label x="-144.78" y="-111.76" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="0_BTN" gate="A" pin="3"/>
+<pinref part="0" gate="A" pin="3"/>
 <wire x1="-53.34" y1="-111.76" x2="-53.34" y2="-96.52" width="0.1524" layer="91"/>
 <label x="-53.34" y="-111.76" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="POINT_BTN" gate="A" pin="3"/>
+<pinref part="POINT" gate="A" pin="3"/>
 <wire x1="-38.1" y1="-111.76" x2="-38.1" y2="-96.52" width="0.1524" layer="91"/>
 <label x="-38.1" y="-111.76" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="MINUS_BTN" gate="A" pin="3"/>
+<pinref part="MINUS" gate="A" pin="3"/>
 <wire x1="-22.86" y1="-111.76" x2="-22.86" y2="-96.52" width="0.1524" layer="91"/>
 <label x="-22.86" y="-111.76" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="ENTER_BTN" gate="A" pin="3"/>
+<pinref part="ENTER" gate="A" pin="3"/>
 <wire x1="-2.54" y1="-111.76" x2="-2.54" y2="-96.52" width="0.1524" layer="91"/>
 <label x="-2.54" y="-111.76" size="1.778" layer="95" rot="R90"/>
 </segment>
@@ -2062,37 +2062,37 @@ KeyBoard</text>
 <label x="-157.48" y="10.16" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="START_BTN" gate="A" pin="1"/>
+<pinref part="START" gate="A" pin="1"/>
 <wire x1="-53.34" y1="63.5" x2="-53.34" y2="48.26" width="0.1524" layer="91"/>
 <label x="-53.34" y="48.26" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="7_BTN" gate="A" pin="1"/>
+<pinref part="7" gate="A" pin="1"/>
 <wire x1="-53.34" y1="15.24" x2="-53.34" y2="0" width="0.1524" layer="91"/>
 <label x="-53.34" y="0" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="4_BTN" gate="A" pin="1"/>
+<pinref part="4" gate="A" pin="1"/>
 <wire x1="-53.34" y1="-30.48" x2="-53.34" y2="-45.72" width="0.1524" layer="91"/>
 <label x="-53.34" y="-45.72" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="1_BTN" gate="A" pin="1"/>
+<pinref part="1" gate="A" pin="1"/>
 <wire x1="-53.34" y1="-76.2" x2="-53.34" y2="-91.44" width="0.1524" layer="91"/>
 <label x="-53.34" y="-91.44" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="UP_BTN" gate="A" pin="1"/>
+<pinref part="UP" gate="A" pin="1"/>
 <wire x1="91.44" y1="-55.88" x2="91.44" y2="-71.12" width="0.1524" layer="91"/>
 <label x="91.44" y="-71.12" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="F1_BTN" gate="A" pin="1"/>
+<pinref part="F1" gate="A" pin="1"/>
 <wire x1="-182.88" y1="-121.92" x2="-182.88" y2="-137.16" width="0.1524" layer="91"/>
 <label x="-182.88" y="-137.16" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="F8_BTN" gate="A" pin="1"/>
+<pinref part="F8" gate="A" pin="1"/>
 <wire x1="-93.98" y1="-121.92" x2="-93.98" y2="-137.16" width="0.1524" layer="91"/>
 <label x="-93.98" y="-137.16" size="1.778" layer="95" rot="R90"/>
 </segment>
@@ -2104,37 +2104,37 @@ KeyBoard</text>
 <label x="-157.48" y="7.62" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="SINGLE_BTN" gate="A" pin="1"/>
+<pinref part="SINGLE" gate="A" pin="1"/>
 <wire x1="-38.1" y1="63.5" x2="-38.1" y2="48.26" width="0.1524" layer="91"/>
 <label x="-38.1" y="48.26" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="8_BTN" gate="A" pin="1"/>
+<pinref part="8" gate="A" pin="1"/>
 <wire x1="-38.1" y1="15.24" x2="-38.1" y2="0" width="0.1524" layer="91"/>
 <label x="-38.1" y="0" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="5_BTN" gate="A" pin="1"/>
+<pinref part="5" gate="A" pin="1"/>
 <wire x1="-38.1" y1="-30.48" x2="-38.1" y2="-45.72" width="0.1524" layer="91"/>
 <label x="-38.1" y="-45.72" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="2_BTN" gate="A" pin="1"/>
+<pinref part="2" gate="A" pin="1"/>
 <wire x1="-38.1" y1="-76.2" x2="-38.1" y2="-91.44" width="0.1524" layer="91"/>
 <label x="-38.1" y="-91.44" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="PGDN_BTN" gate="A" pin="1"/>
+<pinref part="PGDN" gate="A" pin="1"/>
 <wire x1="33.02" y1="-121.92" x2="33.02" y2="-137.16" width="0.1524" layer="91"/>
 <label x="33.02" y="-137.16" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="F2_BTN" gate="A" pin="1"/>
+<pinref part="F2" gate="A" pin="1"/>
 <wire x1="-170.18" y1="-121.92" x2="-170.18" y2="-137.16" width="0.1524" layer="91"/>
 <label x="-170.18" y="-137.16" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="F7_BTN" gate="A" pin="1"/>
+<pinref part="F7" gate="A" pin="1"/>
 <wire x1="-106.68" y1="-121.92" x2="-106.68" y2="-137.16" width="0.1524" layer="91"/>
 <label x="-106.68" y="-137.16" size="1.778" layer="95" rot="R90"/>
 </segment>
@@ -2146,37 +2146,37 @@ KeyBoard</text>
 <label x="-157.48" y="5.08" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="STOP_BTN" gate="A" pin="1"/>
+<pinref part="STOP" gate="A" pin="1"/>
 <wire x1="-22.86" y1="63.5" x2="-22.86" y2="48.26" width="0.1524" layer="91"/>
 <label x="-22.86" y="48.26" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="9_BTN" gate="A" pin="1"/>
+<pinref part="9" gate="A" pin="1"/>
 <wire x1="-22.86" y1="15.24" x2="-22.86" y2="0" width="0.1524" layer="91"/>
 <label x="-22.86" y="0" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="6_BTN" gate="A" pin="1"/>
+<pinref part="6" gate="A" pin="1"/>
 <wire x1="-22.86" y1="-30.48" x2="-22.86" y2="-45.72" width="0.1524" layer="91"/>
 <label x="-22.86" y="-45.72" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="3_BTN" gate="A" pin="1"/>
+<pinref part="3" gate="A" pin="1"/>
 <wire x1="-22.86" y1="-76.2" x2="-22.86" y2="-91.44" width="0.1524" layer="91"/>
 <label x="-22.86" y="-91.44" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="LEFT_BTN" gate="A" pin="1"/>
+<pinref part="LEFT" gate="A" pin="1"/>
 <wire x1="73.66" y1="-78.74" x2="73.66" y2="-93.98" width="0.1524" layer="91"/>
 <label x="73.66" y="-93.98" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="F3_BTN" gate="A" pin="1"/>
+<pinref part="F3" gate="A" pin="1"/>
 <wire x1="-157.48" y1="-121.92" x2="-157.48" y2="-137.16" width="0.1524" layer="91"/>
 <label x="-157.48" y="-137.16" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="F6_BTN" gate="A" pin="1"/>
+<pinref part="F6" gate="A" pin="1"/>
 <wire x1="-119.38" y1="-121.92" x2="-119.38" y2="-137.16" width="0.1524" layer="91"/>
 <label x="-119.38" y="-137.16" size="1.778" layer="95" rot="R90"/>
 </segment>
@@ -2188,32 +2188,32 @@ KeyBoard</text>
 <label x="-157.48" y="2.54" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="SELECT_BTN" gate="A" pin="1"/>
+<pinref part="SELECT" gate="A" pin="1"/>
 <wire x1="-2.54" y1="15.24" x2="-2.54" y2="0" width="0.1524" layer="91"/>
 <label x="-2.54" y="0" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="BACKSP_BTN" gate="A" pin="1"/>
+<pinref part="BACKSP" gate="A" pin="1"/>
 <wire x1="-2.54" y1="-30.48" x2="-2.54" y2="-45.72" width="0.1524" layer="91"/>
 <label x="-2.54" y="-45.72" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="CANCEL_BTN" gate="A" pin="1"/>
+<pinref part="CANCEL" gate="A" pin="1"/>
 <wire x1="-2.54" y1="-76.2" x2="-2.54" y2="-91.44" width="0.1524" layer="91"/>
 <label x="-2.54" y="-91.44" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="DOWN_BTN" gate="A" pin="1"/>
+<pinref part="DOWN" gate="A" pin="1"/>
 <wire x1="91.44" y1="-104.14" x2="91.44" y2="-119.38" width="0.1524" layer="91"/>
 <label x="91.44" y="-119.38" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="F4_BTN" gate="A" pin="1"/>
+<pinref part="F4" gate="A" pin="1"/>
 <wire x1="-144.78" y1="-121.92" x2="-144.78" y2="-137.16" width="0.1524" layer="91"/>
 <label x="-144.78" y="-137.16" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="F5_BTN" gate="A" pin="1"/>
+<pinref part="F5" gate="A" pin="1"/>
 <wire x1="-132.08" y1="-121.92" x2="-132.08" y2="-137.16" width="0.1524" layer="91"/>
 <label x="-132.08" y="-137.16" size="1.778" layer="95" rot="R90"/>
 </segment>
@@ -2225,37 +2225,37 @@ KeyBoard</text>
 <label x="-157.48" y="0" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="HCOPY_BTN" gate="A" pin="1"/>
+<pinref part="HCOPY" gate="A" pin="1"/>
 <wire x1="10.16" y1="63.5" x2="10.16" y2="48.26" width="0.1524" layer="91"/>
 <label x="10.16" y="48.26" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="HELP_BTN" gate="A" pin="1"/>
+<pinref part="HELP" gate="A" pin="1"/>
 <wire x1="33.02" y1="15.24" x2="33.02" y2="0" width="0.1524" layer="91"/>
 <label x="33.02" y="0" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="TABRIGHT_BTN" gate="A" pin="1"/>
+<pinref part="TABRIGHT" gate="A" pin="1"/>
 <wire x1="43.18" y1="-17.78" x2="43.18" y2="-33.02" width="0.1524" layer="91"/>
 <label x="43.18" y="-33.02" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="TABLEFT_BTN" gate="A" pin="1"/>
+<pinref part="TABLEFT" gate="A" pin="1"/>
 <wire x1="33.02" y1="-45.72" x2="33.02" y2="-60.96" width="0.1524" layer="91"/>
 <label x="33.02" y="-60.96" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="0_BTN" gate="A" pin="1"/>
+<pinref part="0" gate="A" pin="1"/>
 <wire x1="-53.34" y1="-121.92" x2="-53.34" y2="-137.16" width="0.1524" layer="91"/>
 <label x="-53.34" y="-137.16" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="RIGHT_BTN" gate="A" pin="1"/>
+<pinref part="RIGHT" gate="A" pin="1"/>
 <wire x1="109.22" y1="-78.74" x2="109.22" y2="-93.98" width="0.1524" layer="91"/>
 <label x="109.22" y="-93.98" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="PGUP_BTN" gate="A" pin="1"/>
+<pinref part="PGUP" gate="A" pin="1"/>
 <wire x1="43.18" y1="-83.82" x2="43.18" y2="-99.06" width="0.1524" layer="91"/>
 <label x="43.18" y="-99.06" size="1.778" layer="95" rot="R90"/>
 </segment>
@@ -2267,27 +2267,27 @@ KeyBoard</text>
 <label x="-157.48" y="-2.54" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="SYSTEM_BTN" gate="A" pin="1"/>
+<pinref part="SYSTEM" gate="A" pin="1"/>
 <wire x1="25.4" y1="63.5" x2="25.4" y2="48.26" width="0.1524" layer="91"/>
 <label x="25.4" y="48.26" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="CONTRAST_BTN" gate="A" pin="1"/>
+<pinref part="CONTRAST" gate="A" pin="1"/>
 <wire x1="40.64" y1="63.5" x2="40.64" y2="48.26" width="0.1524" layer="91"/>
 <label x="40.64" y="48.26" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="OUTPUT_BTN" gate="A" pin="1"/>
+<pinref part="OUTPUT" gate="A" pin="1"/>
 <wire x1="55.88" y1="63.5" x2="55.88" y2="48.26" width="0.1524" layer="91"/>
 <label x="55.88" y="48.26" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="LOCAL_BTN" gate="A" pin="1"/>
+<pinref part="LOCAL" gate="A" pin="1"/>
 <wire x1="71.12" y1="63.5" x2="71.12" y2="48.26" width="0.1524" layer="91"/>
 <label x="71.12" y="48.26" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="POINT_BTN" gate="A" pin="1"/>
+<pinref part="POINT" gate="A" pin="1"/>
 <wire x1="-38.1" y1="-121.92" x2="-38.1" y2="-137.16" width="0.1524" layer="91"/>
 <label x="-38.1" y="-137.16" size="1.778" layer="95" rot="R90"/>
 </segment>
@@ -2299,7 +2299,7 @@ KeyBoard</text>
 <label x="-157.48" y="-5.08" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="MINUS_BTN" gate="A" pin="1"/>
+<pinref part="MINUS" gate="A" pin="1"/>
 <wire x1="-22.86" y1="-121.92" x2="-22.86" y2="-137.16" width="0.1524" layer="91"/>
 <label x="-22.86" y="-137.16" size="1.778" layer="95" rot="R90"/>
 </segment>
@@ -2311,7 +2311,7 @@ KeyBoard</text>
 <label x="-157.48" y="-7.62" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="ENTER_BTN" gate="A" pin="1"/>
+<pinref part="ENTER" gate="A" pin="1"/>
 <wire x1="-2.54" y1="-121.92" x2="-2.54" y2="-137.16" width="0.1524" layer="91"/>
 <label x="-2.54" y="-137.16" size="1.778" layer="95" rot="R90"/>
 </segment>
@@ -2402,32 +2402,32 @@ KeyBoard</text>
 <label x="-157.48" y="22.86" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="LOCAL_BTN" gate="A" pin="3"/>
+<pinref part="LOCAL" gate="A" pin="3"/>
 <wire x1="71.12" y1="73.66" x2="71.12" y2="88.9" width="0.1524" layer="91"/>
 <label x="71.12" y="73.66" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="1_BTN" gate="A" pin="3"/>
+<pinref part="1" gate="A" pin="3"/>
 <wire x1="-53.34" y1="-66.04" x2="-53.34" y2="-50.8" width="0.1524" layer="91"/>
 <label x="-53.34" y="-66.04" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="2_BTN" gate="A" pin="3"/>
+<pinref part="2" gate="A" pin="3"/>
 <wire x1="-38.1" y1="-66.04" x2="-38.1" y2="-50.8" width="0.1524" layer="91"/>
 <label x="-38.1" y="-66.04" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="3_BTN" gate="A" pin="3"/>
+<pinref part="3" gate="A" pin="3"/>
 <wire x1="-22.86" y1="-66.04" x2="-22.86" y2="-50.8" width="0.1524" layer="91"/>
 <label x="-22.86" y="-66.04" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="CANCEL_BTN" gate="A" pin="3"/>
+<pinref part="CANCEL" gate="A" pin="3"/>
 <wire x1="-2.54" y1="-66.04" x2="-2.54" y2="-50.8" width="0.1524" layer="91"/>
 <label x="-2.54" y="-66.04" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="TABLEFT_BTN" gate="A" pin="3"/>
+<pinref part="TABLEFT" gate="A" pin="3"/>
 <wire x1="33.02" y1="-35.56" x2="33.02" y2="-20.32" width="0.1524" layer="91"/>
 <label x="33.02" y="-35.56" size="1.778" layer="95" rot="R90"/>
 </segment>
