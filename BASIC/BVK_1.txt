@@ -1,0 +1,27 @@
+10 '   ******************************************************************
+20 '   * BVKSound 2020/05/09                                            *
+30 '   * Example for trigger multiple meas. and save trace files        *
+40 '   * 2-channel trace file will be saved on A-Drive                  *
+50 '   * Voltage increases each iteration by 10mV                       *
+60 '   ******************************************************************
+70 '
+80 '
+90 Trcprefix$="A:Output"
+100 UPL OUT "MMEM:LOAD:STAT 0,'A:FETHEAD.SAC'"
+110 '
+120 '     
+130 Volt=0.01
+140 '
+150 FOR I=1 TO 10
+160  Trc$=Trcprefix$+STR$(I)+".TRC"
+170  PRINT "Measurement" + STR$(I)+" \ Voltage:"+ STR$(Volt) + "V \ FileName: " +Trc$
+180  UPL OUT "SOUR:VOLT "+STR$(Volt)+""
+190  UPL OUT "INIT:CONT OFF;*WAI": 'Triggers single measurement
+200  UPL OUT "MMEM:STOR:TRAC TR1A,'"+Trc$+"'"
+210  UPL OUT "MMEM:STOR:TRAC TR1A,'"+Trc$+"'"
+220  Volt=Volt+0.01
+230 NEXT
+240 '
+250 '
+260 PRINT "Program Finished"
+270 END
