@@ -18,7 +18,7 @@
 180  UPL OUT "SOUR:VOLT "+STR$(Volt)+""
 190  UPL OUT "INIT:CONT OFF;*WAI": 'Triggers single measurement
 200  UPL OUT "MMEM:STOR:TRAC TR1A,'"+Trc$+"'"
-210  UPL OUT "MMEM:STOR:TRAC TR1A,'"+Trc$+"'"
+210  '
 220  Volt=Volt+0.01
 230 NEXT
 240 '
