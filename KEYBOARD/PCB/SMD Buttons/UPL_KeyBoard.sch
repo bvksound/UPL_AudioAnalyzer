@@ -30,7 +30,7 @@ U 1 1 6019DA79
 P 3150 2100
 F 0 "J1" H 3200 2917 50  0000 C CNN
 F 1 "Conn_02x13_Odd_Even" H 3200 2826 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_2x13_P2.54mm_Vertical" H 3150 2100 50  0001 C CNN
+F 2 "BVKSound:0520443445_Mirrored" H 3150 2100 50  0001 C CNN
 F 3 "~" H 3150 2100 50  0001 C CNN
 	1    3150 2100
 	1    0    0    -1  
