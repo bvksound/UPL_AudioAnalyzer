@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 1
 Title "UPL Keyboard Membrame"
 Date "2021-02-02"
-Rev "2"
+Rev "3"
 Comp "BVKSound"
 Comment1 ""
 Comment2 ""
